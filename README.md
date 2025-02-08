@@ -1,2 +1,2 @@
 # UC10
-Git e Gitbash
+Git e Gitbash comandos iniciais
